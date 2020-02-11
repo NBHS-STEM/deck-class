@@ -3,7 +3,7 @@
 
 class Deck:
     """
-    Your docstring goes here
+    Simple French Deck class implmented in Python
     """
 
     ranks = [str(r) for r in range(2, 11)] + list('JQKA')
